@@ -12,8 +12,8 @@ ReAct agent postavený na LangChainu. Kombinuje webové vyhledávání (Tavily A
 
 ```bash
 # 1. Klon repozitáře
-git clone https://github.com/uzivatel/agent-demo.git
-cd agent-demo
+git clone https://github.com/88barcode88/Kurz_AIAgents_Ukoly.git
+cd Kurz_AIAgents_Ukoly
 
 # 2. Vytvoření virtuálního prostředí
 python -m venv venv
